@@ -1,6 +1,6 @@
 package com.radhay.orderservice.dto;
 
-import com.radhay.orderservice.model.OrderItems;
+import com.radhay.orderservice.model.OrderLineItems;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
